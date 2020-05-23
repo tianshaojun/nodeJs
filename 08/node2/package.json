@@ -1,0 +1,14 @@
+{
+  "name": "feichirensheng",
+  "version": "1.0.0",
+  "description": "npm小试牛刀，纯属个人喜好，非诚勿扰",
+  "main": "index.js",
+  "scripts": {
+    "test": "test222  test333  test666"
+  },
+  "keywords": [
+    "rjsz"
+  ],
+  "author": "tianshaojun",
+  "license": "ISC"
+}
